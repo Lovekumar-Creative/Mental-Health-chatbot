@@ -153,7 +153,7 @@ Implemented in:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/MindCare-AI.git
+git clone  https://github.com/Lovekumar-Creative/Mental-Health-chatbot.git.git
 ```
 
 ---
