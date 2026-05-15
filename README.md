@@ -41,6 +41,22 @@ The chatbot first classifies the user's mental health condition using a fine-tun
 
 ---
 
+# 📓 Google Colab Notebook
+
+You can view the complete BERT fine-tuning notebook here:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1bAJg3UtE7GlLnSJrFiT8EJ4rZ9MPJaFN?usp=sharing)
+
+---
+
+# 📊 Dataset
+
+Dataset used for training the mental health classification model:
+
+👉 [Mental Health Text Classification Dataset](https://huggingface.co/datasets/ourafla/Mental-Health_Text-Classification_Dataset/tree/main)
+
+---
+
 # 📂 Project Structure
 
 ```bash
